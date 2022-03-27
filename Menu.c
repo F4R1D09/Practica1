@@ -1,5 +1,6 @@
 #include <stdlib.h>
 void menu(){
+	printf("simon");
 	int op=0;
 	while(1){
 	int i = 0;
@@ -18,7 +19,7 @@ void menu(){
 	printf("\n");
 	printf( "Que opcion deseas elegir?" );
 	scanf("%d",&op);
-
+	printf("Otro commit");
 
 	switch (op){
 			case 1:
