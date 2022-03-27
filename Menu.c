@@ -19,8 +19,8 @@ void menu(){
 	printf("\n");
 	printf( "Que opcion deseas elegir?" );
 	scanf("%d",&op);
-	printf("Otro commit");
-
+	printf("Otro commit pero esto es de lo que debes");
+	printf("Smn");
 	switch (op){
 			case 1:
 				printf("Mostrar productos \n");
